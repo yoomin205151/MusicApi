@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lGU6CmAimuLoHDT4R3YJvrAkW4MEmu2nhmlHj/nLRU0=",
+  "Source": "aleApi",
+  "BasePath": "_content/aleApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
